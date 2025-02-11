@@ -29,6 +29,6 @@ Acesso fácil a todos os orçamentos criados, permitindo revisões e edições r
 💡 Simples, rápido e eficiente. O jeito moderno de criar orçamentos!
 
 Realizado com
-https://github.com/Ruubennn20
-https://github.com/joaopakina14
+https://github.com/Ruubennn20 |
+https://github.com/joaopakina14 |
 https://github.com/BrunoAssuncao78
